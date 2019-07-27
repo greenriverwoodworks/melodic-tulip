@@ -101,10 +101,10 @@ sections:
   section_id: cta
   background_style: style4
   actions:
-  - label: Activate
+  - label: View Work
     url: "/generic"
     is_scrolly: false
-    is_primary: true
+    is_primary: false
   - label: Learn More
     url: "/generic"
     is_scrolly: false
