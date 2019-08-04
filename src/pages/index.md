@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: Green River Woodworks
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  subtitle: Custom Carpentry & Finishing
   actions:
   - label: View Work
     url: "/generic"
