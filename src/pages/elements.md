@@ -1,9 +1,6 @@
 ---
-title: 'About '
-subtitle: |-
-  This is what it would look like
-
-  ![](/images/Emmett DSC_3249.jpg)
+title: Contact Us
+subtitle: "![](/images/20190729_114000.jpg)"
 menus:
   main:
     title: Elements
